@@ -1,4 +1,7 @@
-# Hi there, I'm Rolando!
+
+<h1 align="left">
+  Hi there, I'm Rolando!
+</h1>
 
 <h3 align="center">
   <b>Industrial Automation Engineer and Software Developer</b><br>
