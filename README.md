@@ -12,4 +12,4 @@ I am a developer who is passionate about stuff like machine learning and data sc
 - 🤖 I’m into DevOps for Machine Learning Engineering.
 - 📈 Open for collaborations in machine learning, analytics and data science projects.
 - 💬 Ask me anything, I love learning new things, let me know if I can help you!
-- 📫 How to reach me: rolandoquiroz@gmail.co
+- 📫 How to reach me: rolandoquiroz@gmail.com
