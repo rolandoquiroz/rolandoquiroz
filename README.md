@@ -1,10 +1,7 @@
-
-<h1 align="left">
-  Hi there, I'm Rolando!
-</h1>
+# Hi there, I'm Rolando!
 
 <h3 align="center">
-  <b>Industrial Automation Engineer and Software Developer</b><br>
+<b>Industrial Automation Engineer and Software Developer</b><br>
 <b>Passionate about Data Science and Machine Learning</b><br>
 </h3>
 
