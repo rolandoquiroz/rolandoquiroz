@@ -1,9 +1,9 @@
 # Hi there, I'm Rolando!
 
-<p align="center">
+<h3 align="center">
   <b>Industrial Automation Engineer and Software Developer</b><br>
 <b>Passionate about Data Science and Machine Learning</b><br>
-</p>
+</h3>
 
 I am a developer who is passionate about stuff like machine learning and data science. Few tech that I enjoy working in are C, Python. Numpy, Pandas, Tensorflow/Keras, Pytorch, Scikit-learn, Django and Flask. I am actively looking for opportunities in Machine Learning. From time to time I do tech-blogging in Medium at rolandoquiroz!
 
